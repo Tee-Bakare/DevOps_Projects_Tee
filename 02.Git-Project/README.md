@@ -194,4 +194,4 @@ See example below:
 
 See example below:
 
-![code](./img/17.markdown_syntax_code_display.png)# Starting-DevOps
+![code](./img/17.markdown_syntax_code_display.png)
