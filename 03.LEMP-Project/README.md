@@ -225,4 +225,3 @@ The image below should appear on screen containing detailed information.
 
 
 ![](./img/Step6_web_nginx_todo_list.png)
-
